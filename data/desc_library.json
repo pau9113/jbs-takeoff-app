@@ -1,0 +1,113 @@
+{
+  "chainlink|6|BLK|fabric": [
+    "2\" mesh, 9ga, galvanized chain link fabric",
+    "2\" mesh, 9ga core wire, KT 6'"
+  ],
+  "chainlink|6|4660|fabric": [
+    "2\" mesh, 9ga, galvanized chain link fabric",
+    "2\" mesh, 9ga, black vinyl-coated chain link fabric"
+  ],
+  "chainlink|6|4660|posts": [
+    "4\" OD SCH. 40 x 10'",
+    "2 7/8\" OD SCH. 40 x 10'",
+    "2 3/8\" OD SCH. 40 x 9'"
+  ],
+  "chainlink|6|4660|caps": [
+    "4\" Dome Caps",
+    "2 7/8\" DOME CAPS",
+    "LOOP CAPS"
+  ],
+  "chainlink|6|4660|ties": [
+    "9ga BLK SHORT",
+    "9ga BLK LONG"
+  ],
+  "chainlink|6|4660|rails": [
+    "1-5/8\" OD SCH. 40 x 21' sw"
+  ],
+  "chainlink|6|4660|fittings": [
+    "Truss Rod - 3/8\" x (length per spec)",
+    "2 3/8\" x 1-5/8\"",
+    "2 7/8\" x 1-5/8\"",
+    "2 7/8\" Bevel",
+    "6' Tension Bars (1/4\" x 3/4\")"
+  ],
+  "chainlink|6|4660|wire": [
+    "7ga GALV tension wire"
+  ],
+  "chainlink|6|4660|accessories": [
+    "6' Windscreen"
+  ],
+  "chainlink|6|4660|gates": [
+    "6'H x 28'W Sliding"
+  ],
+  "chainlink|6|BLK|posts": [
+    "4\" OD SCH. 40 x 10'",
+    "2 7/8\" OD SCH. 40 x 10'",
+    "2 3/8\" OD SCH. 40 x 9'"
+  ],
+  "chainlink|6|BLK|caps": [
+    "4\" Dome Caps",
+    "2 7/8\" DOME CAPS",
+    "LOOP CAPS"
+  ],
+  "chainlink|6|BLK|ties": [
+    "9ga BLK SHORT",
+    "9ga BLK LONG"
+  ],
+  "chainlink|6|BLK|rails": [
+    "1-5/8\" OD SCH. 40 x 21' sw"
+  ],
+  "chainlink|6|BLK|fittings": [
+    "Truss Rod - 3/8\" x (length per spec)",
+    "2 3/8\" x 1-5/8\"",
+    "2 7/8\" x 1-5/8\"",
+    "2 7/8\" Bevel",
+    "6' Tension Bars (1/4\" x 3/4\")"
+  ],
+  "chainlink|6|BLK|wire": [
+    "7ga GALV tension wire"
+  ],
+  "chainlink|6|BLK|accessories": [
+    "6' Windscreen"
+  ],
+  "chainlink|6|BLK|gates": [
+    "6'H x 28'W Sliding",
+    "6'H x 15'W Double Drive"
+  ],
+  "chainlink|80|BLK|fabric": [
+    "2\" mesh, 9ga, galvanized chain link fabric"
+  ],
+  "chainlink|80|BLK|posts": [
+    "4\" OD SCH. 40 x 10'",
+    "2 7/8\" OD SCH. 40 x 10'",
+    "2 3/8\" OD SCH. 40 x 9'"
+  ],
+  "chainlink|80|BLK|caps": [
+    "4\" Dome Caps",
+    "2 7/8\" DOME CAPS",
+    "LOOP CAPS"
+  ],
+  "chainlink|80|BLK|ties": [
+    "9ga BLK SHORT",
+    "9ga BLK LONG"
+  ],
+  "chainlink|80|BLK|rails": [
+    "1-5/8\" OD SCH. 40 x 21' sw"
+  ],
+  "chainlink|80|BLK|fittings": [
+    "Truss Rod - 3/8\" x (length per spec)",
+    "2 3/8\" x 1-5/8\"",
+    "2 7/8\" x 1-5/8\"",
+    "2 7/8\" Bevel",
+    "6' Tension Bars (1/4\" x 3/4\")"
+  ],
+  "chainlink|80|BLK|wire": [
+    "7ga GALV tension wire"
+  ],
+  "chainlink|80|BLK|accessories": [
+    "80' Windscreen"
+  ],
+  "chainlink|80|BLK|gates": [
+    "6'H x 28'W Sliding"
+  ]
+}
